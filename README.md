@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Antonio Popovic, Full time FPGA Engineer and Web developer from Metkovic, Croatia.
 - 👷‍‍♂️ Currently working as an FPGA Engineer @ Xylon, Zagreb, Croatia.
-- 👀 I’m interested in Web design, React, Next JS and all sort of web technology.
+- 👀 I’m interested in Web design, React, Next JS and all sort of web technologies.
 - 🌱 I’m currently learning NextJS Framework.
 - 📫 Contact: Antonio.Popovic@fesb.hr
 - 📢 Skype: antonio.mtk
